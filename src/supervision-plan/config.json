@@ -1,0 +1,10 @@
+{
+  "AppSettings": {
+    "SiteTitle": "supervision_plan"
+  },
+  "Data": {
+    "DefaultConnection": {
+      "ConnectionString": "Server=(localdb)\\mssqllocaldb;Database=aspnet5-supervision_plan-c4d5c162-25f3-4c36-ba28-8962e8235a48;Trusted_Connection=True;MultipleActiveResultSets=true"
+    }
+  }
+}
